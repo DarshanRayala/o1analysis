@@ -1,3 +1,6 @@
 [submodule "o1analysis_frontend"]
 	path = o1analysis_frontend
 	url = https://github.com/DarshanRayala/o1analysis_frontend.git
+[submodule "o1analysis_backend"]
+	path = o1analysis_backend
+	url = git@github.com:DarshanRayala/o1analysis_backend.git
